@@ -136,17 +136,17 @@
 	},
 	{
 		"id": "xbz2KGnDY9hN04ISL95LaXtrYptJCOvcDwBbuovKyvnVdHybtTqASxSrgfBGZDaoS5DpePyRZB8jEbxixy116ntg117117",
-		"name": "Eventbrite",
+		"name": "Eventbrite API",
 		"summary": "Eventbrite launched the first version of its Partner Program in June of 2011, and since launch has driven over 100,000 users to connect Eventbrite accounts across the programu2019s 100 participants. The Partner Program was created to improve the experience of users who chose to use the integrations offered by third parties and assist the Eventbrite team in driving more adoption. If you have any qu",
 		"details": "Eventbrite launched the first version of its Partner Program in June of 2011, and since launch has driven over 100,000 users to connect Eventbrite accounts across the programu2019s 100 participants. The Partner Program was created to improve the experience of users who chose to use the integrations offered by third parties and assist the Eventbrite team in driving more adoption. If you have any questions, feel free to contact the Eventbrite team at Partners (at) eventbrite.com.",
 		"website": "http://developer.eventbrite.com/partner-program/",
-		"twitter": "https://twitter.com/EventbriteAPI",
+		"twitter": "http://t.co/cOMEaXckN3",
 		"github": "https://github.com/eventbrite",
 		"blog": "http://blog.eventbrite.com/",
 		"blogrss": "http://blog.eventbrite.com/feed/",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "https://avatars.githubusercontent.com/u/369874?v=3",
+		"logo_width": "150",
+		"screenshot": "https://avatars.githubusercontent.com/u/369874?v=3",
 		"tags": null
 	},
 	{
