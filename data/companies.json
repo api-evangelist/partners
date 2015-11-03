@@ -30,6 +30,21 @@
 		"tags": null
 	},
 	{
+		"id": "KX6VFuvjqOBZ0xz123Laidd91D1eYVjmWSLhU1ghpTemO30HNDmiTDdBd4g6cBLdaN4II1p17DiaUkdSdn0bDT0w117117",
+		"name": "CallFire",
+		"summary": "CallFire partners come in all shapes and sizes. Whether youre looking to earn referral commissions, offer CallFire services to your franchisees or agents, or formally resell our services, we can work with you. Explore all options to choose the one thats right for your business.",
+		"details": "CallFire partners come in all shapes and sizes. Whether youre looking to earn referral commissions, offer CallFire services to your franchisees or agents, or formally resell our services, we can work with you. Explore all options to choose the one thats right for your business.",
+		"website": "https://www.callfire.com/partners",
+		"twitter": "https://twitter.com/CallFire",
+		"github": "https://github.com/callfire/",
+		"blog": "https://www.callfire.com/blog",
+		"blogrss": "https://www.callfire.com/blog/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png",
+		"tags": null
+	},
+	{
 		"id": "4hi8y8CW7Cqil6gU2123HAI9psKUAuimWJgmD8WSiDeFMUJbHQ7116UgL273jI2A1234yqgOs1MvwW2q4GUo6iQ9kTvg117117",
 		"name": "Cloudflare",
 		"summary": "CloudFlare, Inc. is a U.S. company that provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare users hosting provider, acting as a reverse proxy for websites. Its network protects, speeds up, and improves availability for a website or mobile application with a change in DNS.",
@@ -114,6 +129,21 @@
 		"github": "https://github.com/docusign",
 		"blog": "http://docusign.com/blog",
 		"blogrss": "",
+		"logo": "",
+		"logo_width": "0",
+		"screenshot": "",
+		"tags": null
+	},
+	{
+		"id": "TiTQU8PBwxOVk7Pc123tSDdf3utU123SicLmLwCR5CErEaCVeAWPTbMC02klRnDwH5PuCuDiVo4N96AswFT5rrOTWQ117117",
+		"name": "Dyn",
+		"summary": "Partner with the Industry Leader in Internet Performance. Strengthen your product portfolio and build recurring revenue streams by bundling your core offerings with Dyn Internet Performance solutions.",
+		"details": "Partner with the Industry Leader in Internet Performance. Strengthen your product portfolio and build recurring revenue streams by bundling your core offerings with Dyn Internet Performance solutions.",
+		"website": "http://dyn.com/about/partners/",
+		"twitter": "https://twitter.com/Dyn",
+		"github": "https://github.com/d21",
+		"blog": "http://dyn.com/blog/",
+		"blogrss": "http://feeds.feedburner.com/dyn-blog",
 		"logo": "",
 		"logo_width": "0",
 		"screenshot": "",
@@ -240,6 +270,21 @@
 		"tags": null
 	},
 	{
+		"id": "PxjZzm123CuOxbaNzyXdXWtUhB4ClQiloUOnQrRtwlteBFf1QPm123skG0siDZvNGrMsaacT3KX2P2123C123Q55nR4Wyw117117",
+		"name": "Mailjet",
+		"summary": "Whether youre an agency, an infrastructure or software service provider, a leading incubator or accelerator or are simply looking for an affiliation program, we have a partnership solution tailored to your needs.",
+		"details": "Whether youre an agency, an infrastructure or software service provider, a leading incubator or accelerator or are simply looking for an affiliation program, we have a partnership solution tailored to your needs.",
+		"website": "https://www.mailjet.com/partners",
+		"twitter": "https://twitter.com/mailjet",
+		"github": "https://github.com/mailjet",
+		"blog": "http://blog.mailjet.com/",
+		"blogrss": "http://blog.mailjet.com/rss",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/843_logo.jpg",
+		"logo_width": "160",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/843_logo.jpg",
+		"tags": null
+	},
+	{
 		"id": "AuV11674guokWDRAU5oZgKrl8pMfHM9mvFBlJfGPF3PHjUrQF5aNNz1ArYbNlcgcIx2Ptk9uVETAFCRi0vRdYDxQ117117",
 		"name": "Moz",
 		"summary": "Are you a fan of Moz? We have a feeling were going to like you too! There are many ways to partner with us. To get started, select the option below that best describes how youd like to team up.",
@@ -342,6 +387,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1573_logo.png",
 		"logo_width": "170",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1573_logo.png",
+		"tags": null
+	},
+	{
+		"id": "Fw68BQuGXyJGegWHu2L61XaC3lBn5123Tf116UtD8i5Z3B5aRykt1236UmRsi3H6gCgIQpXUNJY3MhiiuMB116lnmjLYVA117117",
+		"name": "The Guardian",
+		"summary": "Find out how the Guardian can help you make the most of the Open Platform. We are focused on helping our partners succeed. We designed the products to be robust and easy to use, and the license terms for our services were structured to make it as easy as possible to benefit from the offerings. The Open Platform currently includes two products: the Content API and the Data Store.",
+		"details": "Find out how the Guardian can help you make the most of the Open Platform. We are focused on helping our partners succeed. We designed the products to be robust and easy to use, and the license terms for our services were structured to make it as easy as possible to benefit from the offerings. The Open Platform currently includes two products: the Content API and the Data Store.",
+		"website": "http://www.theguardian.com/open-platform/partner-programs",
+		"twitter": "https://twitter.com/GuardianData",
+		"github": "https://github.com/guardian",
+		"blog": "http://www.theguardian.com/open-platform/blog",
+		"blogrss": "http://www.theguardian.com/open-platform/blog/rss",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/guardian-open-platform.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/guardian-open-platform.jpg",
 		"tags": null
 	},
 	{
