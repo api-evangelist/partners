@@ -9,9 +9,9 @@
 		"github": "https://github.com/amazonwebservices",
 		"blog": "http://aws.amazon.com/blogs/aws/",
 		"blogrss": "http://feeds.feedburner.com/AmazonWebServicesBlog",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
 		"tags": null
 	},
 	{
@@ -20,13 +20,13 @@
 		"summary": "By utilizing the industryu2019s most flexible and adaptive API, our partners can readily integrate AssureSignu2019s technology into their existing business systems and processes. With zero product development and certification fees and no complex legal, operational and integration difficulties, our partner program is the most versatile in the industry. As an AssureSign partner, you will receive al",
 		"details": "By utilizing the industryu2019s most flexible and adaptive API, our partners can readily integrate AssureSignu2019s technology into their existing business systems and processes. With zero product development and certification fees and no complex legal, operational and integration difficulties, our partner program is the most versatile in the industry. As an AssureSign partner, you will receive all of the benefits of our electronic signature software, including no interference with your end user and complete control over the entire signature experience.",
 		"website": "https://www.assuresign.com/partner-program/",
-		"twitter": "http://t.co/yyE2BVk4Y2",
+		"twitter": "https://twitter.com/assuresign",
 		"github": "",
 		"blog": "http://blog.assuresign.com",
 		"blogrss": "http://www.assuresign.com/feed/",
-		"logo": "http://pbs.twimg.com/profile_images/1237786927/Sicon-2_normal.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/assure-sign-logo.png",
 		"logo_width": "150",
-		"screenshot": "http://pbs.twimg.com/profile_images/1237786927/Sicon-2_normal.png",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/assure-sign-logo.png",
 		"tags": null
 	},
 	{
