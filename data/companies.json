@@ -99,9 +99,9 @@
 		"github": "",
 		"blog": "http://developermedia.com/category/blog/",
 		"blogrss": "http://developermedia.com/feed/",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/developermedia_logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/developermedia_logo.png",
 		"tags": null
 	},
 	{
@@ -114,9 +114,9 @@
 		"github": "https://github.com/disqus",
 		"blog": "http://blog.disqus.com",
 		"blogrss": "http://blog.disqus.com/rss",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo.jpg",
 		"tags": null
 	},
 	{
@@ -129,9 +129,9 @@
 		"github": "https://github.com/docusign",
 		"blog": "http://docusign.com/blog",
 		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docuSign-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docuSign-logo.jpg",
 		"tags": null
 	},
 	{
@@ -144,9 +144,9 @@
 		"github": "https://github.com/d21",
 		"blog": "http://dyn.com/blog/",
 		"blogrss": "http://feeds.feedburner.com/dyn-blog",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.jpg",
 		"tags": null
 	},
 	{
