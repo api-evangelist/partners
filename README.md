@@ -1,2 +1,2 @@
-# API Performance
-This is my API performance research
+# API Partners
+This is my API partners research
