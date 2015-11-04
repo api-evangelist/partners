@@ -255,6 +255,21 @@
 		"tags": null
 	},
 	{
+		"id": "SyIlRiQQavAxeqypgSOXPRPmwvHf9e116bxhipHp1ngTPv4CH6HGteeWsvfkv0NlN9huxGnv6YBP2DnWUY4iM2cA117117",
+		"name": "Intuit Developer",
+		"summary": "The new Partner program is a four tier program for Intuit App developers. All developers can take advantage of the global accessibility the App Store brings, and then as your business grows, you have the opportunity to move up through the tiers, unlocking new benefits with each step.",
+		"details": "The new Partner program is a four tier program for Intuit App developers. All developers can take advantage of the global accessibility the App Store brings, and then as your business grows, you have the opportunity to move up through the tiers, unlocking new benefits with each step.",
+		"website": "https://developer.intuit.com/partnerprogram",
+		"twitter": "https://twitter.com/intuitdev",
+		"github": "https://github.com/IntuitDeveloperRelations",
+		"blog": "https://developer.intuit.com/blog",
+		"blogrss": "https://developer.intuit.com/blog/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intuit-partner-platform.png",
+		"logo_width": "175",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intuit-partner-platform.png",
+		"tags": null
+	},
+	{
 		"id": "8QLGowZlNCjzKG116ibawKgVTsK5rICt7HAhPhG9Yuulm123s6HxQ1LGcUgNm7cTLYF3m5styqrvREebzMlxOjTxow117117",
 		"name": "LinkedIn",
 		"summary": "Partnering with LinkedIn provides you with additional API functionality & data access, increased call limits & dedicated support. Read more about our various Partner Programs and use cases and see if one is a match for your app. Applications are only accepted when we feel that theyu2019re providing value to members, developers and LinkedIn.",
