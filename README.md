@@ -1,2 +1,4 @@
-# API Partners
-This is my API partners research
+API Partners
+==============
+
+This is my research into API partners.
