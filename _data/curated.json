@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "1168iZYni1232aRvOKiQBjgC6hhxq8eAzPLZxdSEX0zfhzvUU6Zx9NgdK116QIHzmraktOvVZzdOcIAP1gdvFMm123iVCg117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Renault Nissan partner with Microsoft for connected car technology",
+		"url": "http://www.reuters.com/article/us-renault-nissan-microsoft-idUSKCN11W1NG",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QhXiHioZ3qpvGuWDboz2XNmjaiJ9nm3kF7p2fYLsB1jXSJl9yB2Q116m8H5VSqVsh8oVtHd116Ec9WVY8AKO5bc7dw117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Microsoft Azure to Keep RenaultNissan SelfDriving Cars Connected",
+		"url": "http://www.pcmag.com/news/348180/microsoft-azure-to-keep-renault-nissan-self-driving-cars-con",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "nDvmPugrYYbbRQEpvuoBWXPB16wRnjjYiJFvYPxo3123dz4wmaYv2VIRZ2jh8yIBap9116ZruHBevcMGU6Z3SLWITA117117",
 		"item_date": "2016-09-28 00:00:00",
 		"title": "Bosch And SAP Agree A Strategic Internet Of Things IoT Partnership To Facilitate Data Orchestration",
@@ -13,6 +29,30 @@
 		"title": "With a new Costco partnership Ticketmasters developer outreach hits the right notes",
 		"url": "https://techcrunch.com/2016/09/28/with-a-new-costco-partnership-ticketmasters-developer-outreach-hits-the-right-notes/",
 		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5uUmVLQr5u116tdmewdoe63YQtGhhzyPP123YM9Gz5ZukoFH8rsnTSBg4eBT2mSIoDuIDvVcZl8tlytdaX3wLJzQ9A117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Microsoft and BAML team up on blockchainbased trade finance project",
+		"url": "http://www.reuters.com/article/us-tech-blockchain-microsoft-bank-of-ame-idUSKCN11X137",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d9eFxDE123v3yZS6M0hHjdMahLXaNEWY123U0fMcWPe54An6WoTp6Qy116q3Xt6Ckv116xv3O1162ZSzJDLrVMRfZQKCvjEg117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Slack Salesforce ink broad integration pact",
+		"url": "http://www.zdnet.com/article/slack-salesforce-ink-broad-integration-pact/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZWJmgUFrCwl57Jgq6w9Jq6AsGTgBwXe28mY4j116EETFXQv1VkIcTY6MOYnDQR3z85pfOrGpwb95vfMkeiqNmYtg117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Slack Now with more Salesforce and vice versa",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
