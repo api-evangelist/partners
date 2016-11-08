@@ -1,10 +1,18 @@
 [
 	{
+		"curated_id": "yl8GTWTNgqFufZjuvgCHe2Rz45yyd8zysKbBb6y6eI9Ff1237k3uoOJQ3RDscJV6pBY4AES06NQ2OBSYAmoTyaAQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Introducing Kubernetes Service Partners program and a redesigned Partners page",
+		"url": "http://blog.kubernetes.io/2016/10/kubernetes-service-technology-partners-program.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
 		"curated_id": "FmwGu1T8vt98HE6YkK2enLrtAPnGMIZkWJQ3HF9wsT9S80P7bhA3qGk9qtxoe123I116Uj7gixaGVM0vvr6PPsVUGw117117",
 		"item_date": "2016-11-01 00:00:00",
 		"title": "Uber and GM partner to offer drivers car sharing through Maven",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/tZMSej3a_5w/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2016/11/01/uber-and-gm-partner-to-offer-drivers-car-sharing-through-maven/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
