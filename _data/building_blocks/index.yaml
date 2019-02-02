@@ -1,262 +1,165 @@
-- building_block_id: landing-page
-  type: Partners
-  category: Program Details
-  name: Landing Page
-  description: An official landing page for the partner program.
-  image: ''
-  tags: Partners
-- building_block_id: program-details
-  type: Partners
-  category: Program Details
-  name: Program Details
-  description: 'Short, concise information about the program.'
-  image: ''
-  tags: Partners
-- building_block_id: program-requirements
-  type: Partners
-  category: Program Details
-  name: Program Requirements
-  description: Information about what the details of the program are.
-  image: ''
-  tags: Partners
-- building_block_id: program-levels
-  type: Partners
-  category: Program Details
-  name: Program Levels
-  description: Details about what the different levels of the partner program are.
-  image: ''
-  tags: Partners
-- building_block_id: list-of-partners
-  type: Partners
-  category: Partner Showcase
-  name: List of Partners
-  description: 'A list of partners, usually name and logo, maybe with some description.'
-  image: ''
-  tags: Partners
-- building_block_id: partner-stories
-  type: Partners
-  category: Partner Showcase
-  name: Partner Stories
-  description: Stories of the partners and how they use the platform.
-  image: ''
-  tags: Partners
-- building_block_id: partner-search
-  type: Partners
-  category: Partner Showcase
-  name: Partner Search
-  description: A keyword search for discovering partners.
-  image: ''
-  tags: Partners
-- building_block_id: application-/-registration
-  type: Partners
-  category: Partner Program
-  name: Application / Registration
-  description: The actual application for registering to become a partner.
-  image: ''
-  tags: Partners
-- building_block_id: private-portal
-  type: Partners
-  category: Partner Program
-  name: Private Portal
-  description: A private portal for partners to login to.
-  image: ''
-  tags: Partners
-- building_block_id: certification
-  type: Partners
-  category: Partner Program
-  name: Certification
-  description: >-
-    Official certification showing that a partner is officially approved and
-    vetted.
-  image: ''
-  tags: Partners
-- building_block_id: quota-increase
-  type: Partners
-  category: API
-  name: Quota Increase
-  description: Increasing the rate limit for existing APIs.
-  image: ''
-  tags: Partners
-- building_block_id: additional-apis
-  type: Partners
-  category: API
-  name: Additional APIs
-  description: Provide access to APIs that are only accessible to their partner tiers.
-  image: ''
-  tags: Partners
-- building_block_id: read-/-write-apis
-  type: Partners
-  category: API
-  name: Read / Write APIs
-  description: >-
-    Access to not only read, but also write, update, and possibly delete access
-    to aPIs.
-  image: ''
-  tags: Partners
-- building_block_id: early-communication
-  type: Partners
-  category: Early Access
-  name: Early Communication
-  description: Allow for partners to get early access to platform communications.
-  image: ''
-  tags: Partners
-- building_block_id: early-opportunities
-  type: Partners
-  category: Early Access
-  name: Early Opportunities
-  description: Access to early platform opportunities meant just for partners.
-  image: ''
-  tags: Partners
-- building_block_id: alpha--beta-access
-  type: Partners
-  category: Early Access
-  name: Alpha & Beta Access
-  description: Allow for beta access to new platform products.
-  image: ''
-  tags: Partners
-- building_block_id: agreement
-  type: Partners
-  category: Legal
-  name: Agreement
-  description: The legaleze for the partner program agreement.
-  image: ''
-  tags: Partners
-- building_block_id: privacy-policy
-  type: Partners
-  category: Legal
-  name: Privacy Policy
-  description: What is the privacy policy for the partner program.
-  image: ''
-  tags: Partners
-- building_block_id: code-of-conduct
-  type: Partners
-  category: Legal
-  name: Code of Conduct
-  description: 'A code of conduct targeting partners, explaining what is expected.'
-  image: ''
-  tags: Partners
-- building_block_id: blog-posts
-  type: Partners
-  category: Marketing Activities
-  name: Blog Posts
-  description: Provide blog posts for partners to take advantage of one time or recurring.
-  image: ''
-  tags: Partners
-- building_block_id: press-release
-  type: Partners
-  category: Marketing Activities
-  name: Press Release
-  description: >-
-    Provide press releases for new partners, and possibly recurring for other
-    milestones.
-  image: ''
-  tags: Partners
-- building_block_id: facebook-post
-  type: Partners
-  category: Marketing Activities
-  name: Facebook Post
-  description: Post updates to the platforms Facebook account.
-  image: ''
-  tags: Partners
-- building_block_id: twitter-post
-  type: Partners
-  category: Marketing Activities
-  name: Twitter Post
-  description: Post updates to the platforms Twitter account.
-  image: ''
-  tags: Partners
-- building_block_id: google-plus
-  type: Partners
-  category: Marketing Activities
-  name: Google Plus
-  description: Post updates to the platforms Google Plus account.
-  image: ''
-  tags: Partners
-- building_block_id: discounts
-  type: Partners
-  category: Support
-  name: Discounts
-  description: Provide discounts on direct support for partners.
-  image: ''
-  tags: Partners
-- building_block_id: office-hours
-  type: Partners
-  category: Support
-  name: Office Hours
-  description: Provide virtual open office hours just for partners.
-  image: ''
-  tags: Partners
-- building_block_id: training
-  type: Partners
-  category: Support
-  name: Training
-  description: Offer direct training opportunities that is designed just for partners.
-  image: ''
-  tags: Partners
-- building_block_id: advisors
-  type: Partners
-  category: Support
-  name: Advisors
-  description: Provide special advisors that are there to support partners.
-  image: ''
-  tags: Partners
-- building_block_id: quotes
-  type: Partners
-  category: Content
-  name: Quotes
-  description: >-
-    Allow partners to provide quotes thath can be published to relevant
-    properties.
-  image: ''
-  tags: Partners
-- building_block_id: testimonials
-  type: Partners
-  category: Content
-  name: Testimonials
-  description: Have partners provide testimonials that get published to relevant sites.
-  image: ''
-  tags: Partners
-- building_block_id: use-of-logo
-  type: Partners
-  category: Content
-  name: Use of Logo
-  description: 'Allow partners to use the platform logo, or special partner platform logo.'
-  image: ''
-  tags: Partners
-- building_block_id: blog
-  type: Partners
-  category: Communication
-  name: Blog
-  description: >-
-    Have a blog that is dedicated to providing information for the partner
-    program.
-  image: ''
-  tags: Partners
-- building_block_id: spotlight
-  type: Partners
-  category: Communication
-  name: Spotlight
-  description: Have a special section to spotlight on partners.
-  image: ''
-  tags: Partners
-- building_block_id: newsletter
-  type: Partners
-  category: Communication
-  name: Newsletter
-  description: Provide a dedicated partner newsletter.
-  image: ''
-  tags: Partners
-- building_block_id: revenue-sharing
-  type: Partners
-  category: Financial
-  name: Revenue Sharing
-  description: Offer revenue sharing for partners.
-  image: ''
-  tags: Partners
-- building_block_id: reseller-discounts
-  type: Partners
-  category: Financial
-  name: Reseller Discounts
-  description: Offer reseller discounts from referrals they make.
-  image: ''
-  tags: Partners
+- building_block_id: web-concepts
+  type: Definitions
+  category: Formats
+  name: Web Concepts
+  descripion: >-
+    APIs are built on the web, and there are numerous web concepts in play that
+    should be considered as part of the API design process.
+  logo: ''
+  tags: Definitions
+- building_block_id: specification
+  type: Definitions
+  category: Formats
+  name: Specification
+  descripion: >-
+    The root specification for the API definition format, providing a base set
+    of rules for all services and tools that employ the spec.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: schema
+  type: Definitions
+  category: Formats
+  name: Schema
+  descripion: >-
+    A representation of data model, used as part of an API request, or response,
+    usually in JSON, but increasingly YAML, and Markdown are also used.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: generator
+  type: Definitions
+  category: Tooling
+  name: Generator
+  descripion: >-
+    Generating an API definition format from an existing system or platform,
+    outputting the portable machine readable format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
+  tags: Definitions
+- building_block_id: parser
+  type: Definitions
+  category: Tooling
+  name: Parser
+  descripion: >-
+    Parses a machine readable API definition and makes ready for use in specific
+    language, structure, or platform.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
+  tags: Definitions
+- building_block_id: validator
+  type: Definitions
+  category: Tooling
+  name: Validator
+  descripion: >-
+    Validates an API definition against its formal specification and schema,
+    producing a valid or invalid response, with as much detail as possible.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
+  tags: Definitions
+- building_block_id: converter
+  type: Definitions
+  category: Tooling
+  name: Converter
+  descripion: >-
+    The conversion of an API definition from one format into another, allowing
+    designers to share API definitions in any format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
+  tags: Definitions
+- building_block_id: commandline
+  type: Definitions
+  category: Tooling
+  name: Command-Line
+  descripion: The usage of machine readable API definitions at the command line.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: powershell
+  type: Definitions
+  category: Tooling
+  name: Powershell
+  descripion: The usage of machine readable API definitions via the powershell interface.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: aggregator
+  type: Definitions
+  category: Tooling
+  name: Aggregator
+  descripion: Aggregation of APIs using a machine readable API definition format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
+  tags: Definitions
+- building_block_id: translator
+  type: Definitions
+  category: Tooling
+  name: Translator
+  descripion: >-
+    Being able to translate an API definition format from one format to another,
+    either manually or automatically.
+  logo: ''
+  tags: Definitions
+- building_block_id: merging
+  type: Definitions
+  category: Tooling
+  name: Merging
+  descripion: >-
+    Tooling or other APIs that provide for the merging of common API definition
+    formats, allowing the granularity of what elements get merged, or do not get
+    merged. Ideally, this is an API, as well as simple web-based or desktop
+    tooling for API providers and consumers.
+  logo: ''
+  tags: Definitions
+- building_block_id: diff
+  type: Definitions
+  category: Tooling
+  name: Diff
+  descripion: >-
+    Providing side by side comparison of two API definitions, programmatically
+    and visually helping identify between two API definitions. This allows for
+    API architects, designers, and consumers to understand the completeness of
+    two definitions, in relation to each other.
+  logo: ''
+  tags: Definitions
+- building_block_id: editors
+  type: Definitions
+  category: Environment
+  name: Editors
+  descripion: >-
+    API definition editor, allowing for the creation, import, and export of API
+    definition formats, providing a simple, IDE like API editing experience.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: ide-plugin
+  type: Definitions
+  category: Environment
+  name: IDE Plugin
+  descripion: >-
+    Providing integration with existing integrated development environments
+    (IDE), giving developers API discovery, documentation, and integration
+    tooling within the IDE.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: forms
+  type: Definitions
+  category: Environment
+  name: Forms
+  descripion: >-
+    Dynamically generating an HTML form from an API definition, allow for the
+    structure, and handling to be driven by an API definition.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
+  tags: Definitions
+- building_block_id: github
+  type: Definitions
+  category: Environment
+  name: GIthub
+  descripion: >-
+    Allowing for the import, publishing, and syncing of API definitions and
+    schemas to Github for forking, and management using the social coding
+    platform.
+  logo: ''
+  tags: Definitions
